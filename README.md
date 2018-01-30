@@ -1,5 +1,6 @@
 # Class Roster
 - Brian Parra
+- Neo Marcos
 - Hamed A.  Rangeen
 - Gerardo Aguilar
 - Brian again
