@@ -1,4 +1,4 @@
 # Class Roster
 - Brian Parra
-- Hamed Rangeen
+- Hamed A.  Rangeen
 
