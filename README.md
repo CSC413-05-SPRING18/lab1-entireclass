@@ -1,6 +1,7 @@
 # Class Roster
 - Brian Parra
 - Flavy Tonfack
+- Regine Manuel
 - Hamed A.  Rangeen
 - Gerardo Aguilar
 - Brian again
