@@ -1,5 +1,5 @@
 # Class Roster
--Abdullah Amir
+- Abdullah Amir
 - Brian Parra
 - Gerardo Aguila
 - Flavy Tonfack
@@ -12,3 +12,4 @@
 - Brian again
 - Peter lin
 - Neo Marcos
+- Quan Lu
